@@ -609,7 +609,7 @@ This project demonstrates practical experience with:
 
 ---
 
-# 👨‍💻 About The Develper
+# 👨‍💻 About The Developer
 
 ## Shahid Azam
 

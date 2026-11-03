@@ -287,7 +287,7 @@ A large value of:
 C = 1000
 ```
 
-is used to create a weakly regularized model.
+**is used to create a weakly regularized model.**
 
 Weak regularization allows the model greater flexibility and can increase the risk of **overfitting**.
 

@@ -259,7 +259,7 @@ Training Set → 80%
 Testing Set  → 20%
 ```
 
-with stratification to preserve the class distribution.
+**with stratification to preserve the class distribution.**
 
 ---
 

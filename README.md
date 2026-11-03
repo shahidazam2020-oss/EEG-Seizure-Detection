@@ -240,7 +240,7 @@ Logistic Regression
 | 🔵 Pipeline A | Denoising + Variance Selection | **0.43** | **0.57** |
 | 🟣 Pipeline B | Statistical Features + PCA     |     0.21 |     0.48 |
 
-According to the notebook, Pipeline A substantially outperformed Pipeline B. The interpretation given is that Pipeline B compressed the rich EEG representation too aggressively, resulting in information loss.
+**According to the notebook, Pipeline A substantially outperformed Pipeline B. The interpretation given is that Pipeline B compressed the rich EEG representation too aggressively, resulting in information loss.**
 
 ---
 

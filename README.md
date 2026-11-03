@@ -115,7 +115,7 @@ y = df3["eyeDetection"]
 
 # 🧹 Data Preprocessing
 
-The project applies several preprocessing techniques to prepare the EEG data.
+**The project applies several preprocessing techniques to prepare the EEG data.**
 
 ### Missing Value Handling
 

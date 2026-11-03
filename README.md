@@ -62,7 +62,7 @@ The experiments are designed to determine which combination of preprocessing and
 
 **The notebook uses the `eyeDetection` variable as the target for the main classification pipeline.**
 
-The feature matrix is created by removing the target column:
+**The feature matrix is created by removing the target column:**
 
 ```python
 X = df3.drop(columns=["eyeDetection"])

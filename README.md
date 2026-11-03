@@ -305,7 +305,7 @@ The curve compares:
 
 ### Purpose
 
-The learning curve helps diagnose:
+**The learning curve helps diagnose:**
 
 * Underfitting
 * Overfitting

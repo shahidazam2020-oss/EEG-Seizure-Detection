@@ -125,7 +125,7 @@ y = df3["eyeDetection"]
 X = X.fillna(X.mean())
 ```
 
-This prevents missing values from interfering with the machine-learning algorithms.
+**This prevents missing values from interfering with the machine-learning algorithms.**
 
 ---
 

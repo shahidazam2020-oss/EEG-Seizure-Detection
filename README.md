@@ -193,7 +193,7 @@ Logistic Regression
 
 # 🧮 Pipeline B — Statistical Feature Extraction + PCA
 
-Pipeline B performs aggressive feature compression.
+**Pipeline B performs aggressive feature compression.**
 
 For each EEG observation, statistical features are extracted:
 

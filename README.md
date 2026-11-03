@@ -21,7 +21,7 @@ The experiments are designed to determine which combination of preprocessing and
 
 ## 🎯 Project Objectives
 
-The main objectives are:
+**The main objectives are:**
 
 * 🧠 Analyze EEG signal data
 * 🧹 Perform data preprocessing

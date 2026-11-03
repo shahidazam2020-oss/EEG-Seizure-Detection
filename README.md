@@ -187,7 +187,7 @@ Selected Features
 Logistic Regression
 ```
 
-This approach retains substantially more of the original EEG information.
+**This approach retains substantially more of the original EEG information.**
 
 ---
 

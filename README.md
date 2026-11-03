@@ -320,7 +320,7 @@ The curve compares:
 
 ## 1. L1 Regularization
 
-L1 regularization encourages sparse model coefficients and can effectively perform feature selection.
+**L1 regularization encourages sparse model coefficients and can effectively perform feature selection.**
 
 ```text
 L1 → Sparse Features → Remove Less Useful Features

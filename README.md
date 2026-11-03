@@ -41,7 +41,7 @@ The experiments are designed to determine which combination of preprocessing and
 
 # 📂 Datasets
 
-The notebook loads three EEG-related datasets:
+**The notebook loads three EEG-related datasets:**
 
 ### 1. EEG Feature Dataset
 

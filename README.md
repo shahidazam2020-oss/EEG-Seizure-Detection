@@ -146,7 +146,7 @@ X_scaled = scaler.fit_transform(X)
 
 # 🔇 EEG Signal Denoising
 
-The project applies a rolling-window smoothing technique to the standardized EEG features.
+**The project applies a rolling-window smoothing technique to the standardized EEG features.**
 
 ```python
 X_denoised = X_scaled_df.rolling(

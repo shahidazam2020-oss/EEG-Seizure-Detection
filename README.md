@@ -269,7 +269,7 @@ Testing Set  → 20%
 
 ### 🔵 Underfitting
 
-A very small value of:
+**A very small value of:**
 
 ```text
 C = 0.001

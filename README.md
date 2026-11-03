@@ -250,7 +250,7 @@ Logistic Regression
 
 ## Logistic Regression
 
-Logistic Regression is used as the baseline classifier and throughout the regularization and class-imbalance experiments.
+**Logistic Regression is used as the baseline classifier and throughout the regularization and class-imbalance experiments.**
 
 The train/test split uses:
 

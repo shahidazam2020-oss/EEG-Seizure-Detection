@@ -51,7 +51,7 @@ The experiments are designed to determine which combination of preprocessing and
 
 **Used as an EEG/seizure-related dataset for the project experiments.**
 
-The target variable `y` is converted into a binary classification format:
+**The target variable `y` is converted into a binary classification format:**
 
 ```text
 1 → Seizure

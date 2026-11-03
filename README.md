@@ -45,7 +45,7 @@ The experiments are designed to determine which combination of preprocessing and
 
 ### 1. EEG Feature Dataset
 
-Used for exploring EEG features and their statistical properties.
+**Used for exploring EEG features and their statistical properties.**
 
 ### 2. Epileptic Seizure Recognition Dataset
 

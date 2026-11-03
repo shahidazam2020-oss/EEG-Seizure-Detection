@@ -49,7 +49,7 @@ The experiments are designed to determine which combination of preprocessing and
 
 ### 2. Epileptic Seizure Recognition Dataset
 
-Used as an EEG/seizure-related dataset for the project experiments.
+**Used as an EEG/seizure-related dataset for the project experiments.**
 
 The target variable `y` is converted into a binary classification format:
 

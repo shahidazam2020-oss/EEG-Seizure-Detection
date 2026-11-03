@@ -140,7 +140,7 @@ scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 ```
 
-Standardization transforms the features to a comparable scale, which is particularly important for Logistic Regression and PCA.
+**Standardization transforms the features to a comparable scale, which is particularly important for Logistic Regression and PCA.**
 
 ---
 

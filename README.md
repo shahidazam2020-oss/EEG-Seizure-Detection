@@ -342,7 +342,7 @@ L1 → Sparse Features → Remove Less Useful Features
 
 **F1 = 0.435**
 
-The notebook interprets this as stable performance but less effective than L1 for the highly correlated/noisy EEG representation.
+**The notebook interprets this as stable performance but less effective than L1 for the highly correlated/noisy EEG representation.**
 
 ---
 

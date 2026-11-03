@@ -336,7 +336,7 @@ L1 → Sparse Features → Remove Less Useful Features
 
 ## 2. L2 Regularization
 
-L2 regularization shrinks model coefficients while generally retaining all features.
+**L2 regularization shrinks model coefficients while generally retaining all features.**
 
 ### Result
 

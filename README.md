@@ -195,7 +195,7 @@ Logistic Regression
 
 **Pipeline B performs aggressive feature compression.**
 
-For each EEG observation, statistical features are extracted:
+**For each EEG observation, statistical features are extracted:**
 
 * Mean
 * Standard deviation

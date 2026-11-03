@@ -119,7 +119,7 @@ y = df3["eyeDetection"]
 
 ### Missing Value Handling
 
-Missing values are replaced using the mean of the corresponding feature:
+**Missing values are replaced using the mean of the corresponding feature:**
 
 ```python
 X = X.fillna(X.mean())

@@ -163,7 +163,7 @@ X_denoised = X_scaled_df.rolling(
 
 # 🔍 Pipeline A — Feature Selection
 
-Pipeline A focuses on preserving the original EEG feature structure while removing features with extremely low variance.
+**Pipeline A focuses on preserving the original EEG feature structure while removing features with extremely low variance.**
 
 The project uses:
 

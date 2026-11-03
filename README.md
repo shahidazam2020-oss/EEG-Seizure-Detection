@@ -316,7 +316,7 @@ The curve compares:
 
 # 🛡️ Regularization Experiments
 
-Three regularization approaches are compared.
+**Three regularization approaches are compared.**
 
 ## 1. L1 Regularization
 

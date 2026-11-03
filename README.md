@@ -60,7 +60,7 @@ The experiments are designed to determine which combination of preprocessing and
 
 ### 3. EEG Eye State Dataset
 
-The notebook uses the `eyeDetection` variable as the target for the main classification pipeline.
+**The notebook uses the `eyeDetection` variable as the target for the main classification pipeline.**
 
 The feature matrix is created by removing the target column:
 

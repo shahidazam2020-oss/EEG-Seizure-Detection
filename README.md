@@ -275,7 +275,7 @@ A very small value of:
 C = 0.001
 ```
 
-is used to create a strongly regularized model.
+**is used to create a strongly regularized model.**
 
 Strong regularization restricts model complexity and can lead to **underfitting**.
 

@@ -246,7 +246,7 @@ Logistic Regression
 
 # 🤖 Classification Model
 
-The primary machine-learning algorithm used is:
+**The primary machine-learning algorithm used is:**
 
 ## Logistic Regression
 

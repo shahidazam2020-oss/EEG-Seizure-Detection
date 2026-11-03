@@ -330,7 +330,7 @@ L1 → Sparse Features → Remove Less Useful Features
 
 **F1 = 0.518**
 
-This was the best-performing regularization approach in the notebook.
+**This was the best-performing regularization approach in the notebook.**
 
 ---
 

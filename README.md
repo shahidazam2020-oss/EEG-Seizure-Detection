@@ -131,7 +131,7 @@ X = X.fillna(X.mean())
 
 # 📏 Feature Standardization
 
-The EEG features are standardized using `StandardScaler`.
+**The EEG features are standardized using `StandardScaler`.**
 
 ```python
 from sklearn.preprocessing import StandardScaler

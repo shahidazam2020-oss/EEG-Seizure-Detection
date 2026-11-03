@@ -348,7 +348,7 @@ L1 → Sparse Features → Remove Less Useful Features
 
 ## 3. Elastic Net
 
-Elastic Net combines L1 and L2 penalties.
+**Elastic Net combines L1 and L2 penalties.**
 
 ### Result
 

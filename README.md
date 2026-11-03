@@ -157,7 +157,7 @@ X_denoised = X_scaled_df.rolling(
 
 ### Purpose
 
-The smoothing operation is intended to reduce short-term fluctuations and noise in the EEG feature representation.
+**The smoothing operation is intended to reduce short-term fluctuations and noise in the EEG feature representation.**
 
 ---
 

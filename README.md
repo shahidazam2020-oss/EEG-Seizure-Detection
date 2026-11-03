@@ -265,7 +265,7 @@ Testing Set  → 20%
 
 # ⚠️ Underfitting vs Overfitting
 
-The project investigates the effect of Logistic Regression's regularization strength.
+**The project investigates the effect of Logistic Regression's regularization strength.**
 
 ### 🔵 Underfitting
 

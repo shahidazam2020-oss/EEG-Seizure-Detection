@@ -614,6 +614,7 @@ Open it using:
 
 **MS Computer Science Student**
 **Specialization in Artificial Intelligence**
+- 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
 
 Institute of Management Sciences, Peshawar, Pakistan
 

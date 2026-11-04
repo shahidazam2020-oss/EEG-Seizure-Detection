@@ -441,7 +441,7 @@ F1-score combines:
 
 # 🏆 Final Experimental Findings
 
-The experiments lead to the following main conclusions:
+**The experiments lead to the following main conclusions:**
 
 ### 🥇 Best Preprocessing
 

@@ -639,6 +639,7 @@ Skills demonstrated:
 • Natural Language Processing
 • Data Analysis
 • Data Visualization
+• EEG Signal Analysis
 
 ## 📜 Disclaimer
 

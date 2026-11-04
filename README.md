@@ -643,6 +643,10 @@ Skills demonstrated:
 
 # 🤝 Connect With Me
 
+<p align="center">
+<a href="https://github.com/shahidazam2020-oss">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ## 📜 Disclaimer
 
 This project is intended for **academic and educational purposes**. The results demonstrate machine-learning experiments on the datasets used in the notebook and should not be interpreted as a clinically validated seizure-detection system.

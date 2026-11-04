@@ -427,7 +427,7 @@ F1-score combines:
 * Precision
 * Recall
 
-It is especially useful when both false positives and false negatives matter.
+**It is especially useful when both false positives and false negatives matter.**
 
 ---
 

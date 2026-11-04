@@ -398,7 +398,7 @@ Balanced Training Data
 Logistic Regression
 ```
 
-The notebook reports that SMOTE slightly improves PR-AUC, although the improvement is limited.
+**The notebook reports that SMOTE slightly improves PR-AUC, although the improvement is limited.**
 
 ---
 

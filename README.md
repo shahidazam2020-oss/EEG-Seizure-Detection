@@ -354,7 +354,7 @@ L1 → Sparse Features → Remove Less Useful Features
 
 **F1 = 0.426**
 
-In this experiment, Elastic Net did not outperform the individual regularization methods.
+**In this experiment, Elastic Net did not outperform the individual regularization methods.**
 
 ---
 

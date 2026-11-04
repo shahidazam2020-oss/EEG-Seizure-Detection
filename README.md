@@ -372,7 +372,7 @@ The notebook concludes that **L1 regularization provides the strongest performan
 
 # ⚖️ Class Imbalance Handling
 
-The project evaluates three different approaches to class imbalance.
+**The project evaluates three different approaches to class imbalance.**
 
 ### 1. Class Weighting
 

@@ -632,6 +632,7 @@ Skills demonstrated:
 
 ---
 ### Areas of Interest
+• Artificial Intelligence
 
 ## 📜 Disclaimer
 

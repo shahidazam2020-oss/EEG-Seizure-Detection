@@ -587,7 +587,7 @@ Open it using:
 
 # 🎓 Learning Outcomes
 
-This project demonstrates practical experience with:
+**This project demonstrates practical experience with:**
 
 * EEG data analysis
 * Machine learning classification

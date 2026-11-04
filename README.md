@@ -380,7 +380,7 @@ The notebook concludes that **L1 regularization provides the strongest performan
 LogisticRegression(class_weight='balanced')
 ```
 
-This approach changes the importance assigned to different classes without changing the original dataset.
+**This approach changes the importance assigned to different classes without changing the original dataset.**
 
 ---
 

@@ -418,7 +418,7 @@ Minority Class ──┘
 
 # 📊 Evaluation Metrics
 
-The project focuses primarily on:
+**The project focuses primarily on:**
 
 ## F1 Score
 

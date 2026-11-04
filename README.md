@@ -422,7 +422,7 @@ Minority Class ──┘
 
 ## F1 Score
 
-F1-score combines:
+**F1-score combines:**
 
 * Precision
 * Recall

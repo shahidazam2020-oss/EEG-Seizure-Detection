@@ -631,6 +631,7 @@ Skills demonstrated:
 **Python • Machine Learning • EEG Analysis • Data Preprocessing • Feature Engineering • Scikit-learn • Logistic Regression • Regularization • PCA • SMOTE • Data Analysis**
 
 ---
+### Areas of Interest
 
 ## 📜 Disclaimer
 

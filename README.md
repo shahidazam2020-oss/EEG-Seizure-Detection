@@ -623,6 +623,7 @@ I enjoy building complete software systems—from networking and operating syste
 - 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
 - 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
 - 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
+- 📬 **Contact:** shahidazam2020@gmail.com
 
 Skills demonstrated:
 

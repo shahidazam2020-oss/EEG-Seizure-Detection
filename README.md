@@ -412,7 +412,7 @@ Majority Class ──┐
 Minority Class ──┘
 ```
 
-The notebook reports that undersampling achieved the highest F1-score among the imbalance approaches, but at the cost of removing some majority-class information.
+**The notebook reports that undersampling achieved the highest F1-score among the imbalance approaches, but at the cost of removing some majority-class information.**
 
 ---
 

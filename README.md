@@ -610,10 +610,10 @@ Open it using:
 ---
 
 # 👨‍💻 About The Developer
-
 ## Shahid Azam
 
-**Machine Learning & Data Analytics Project**
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
 
 Skills demonstrated:
 

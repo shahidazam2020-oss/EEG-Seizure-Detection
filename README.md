@@ -569,7 +569,7 @@ Open it using:
 
 ### 4. Run the Notebook
 
-Run the cells sequentially to reproduce:
+**Run the cells sequentially to reproduce:**
 
 * Data loading
 * Preprocessing

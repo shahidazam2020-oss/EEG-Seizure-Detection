@@ -650,6 +650,9 @@ Skills demonstrated:
   <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+  <a href="mailto:shahidazam2020@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 ## 📜 Disclaimer
 
 This project is intended for **academic and educational purposes**. The results demonstrate machine-learning experiments on the datasets used in the notebook and should not be interpreted as a clinically validated seizure-detection system.

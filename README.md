@@ -615,6 +615,10 @@ Open it using:
 **MS Computer Science Student**
 **Specialization in Artificial Intelligence**
 
+Institute of Management Sciences, Peshawar, Pakistan
+
+I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
+
 Skills demonstrated:
 
 **Python • Machine Learning • EEG Analysis • Data Preprocessing • Feature Engineering • Scikit-learn • Logistic Regression • Regularization • PCA • SMOTE • Data Analysis**

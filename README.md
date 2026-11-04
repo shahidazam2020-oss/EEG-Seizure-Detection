@@ -635,6 +635,7 @@ Skills demonstrated:
 
 • Artificial Intelligence
 • Machine Learning
+• Deep Learning
 
 ## 📜 Disclaimer
 

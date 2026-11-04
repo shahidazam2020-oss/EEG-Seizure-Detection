@@ -464,7 +464,7 @@ F1 = **0.518**
 
 # 💡 Key Insight
 
-The most important finding of the project is:
+**The most important finding of the project is:**
 
 > **Preserving useful EEG signal structure while applying controlled feature selection performs better than aggressive feature compression.**
 

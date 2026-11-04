@@ -435,7 +435,7 @@ F1-score combines:
 
 **Precision-Recall Area Under the Curve (PR-AUC)** evaluates the model's ability to rank positive examples effectively.
 
-It is particularly useful when evaluating binary classification problems where class distributions may not be perfectly balanced.
+**It is particularly useful when evaluating binary classification problems where class distributions may not be perfectly balanced.**
 
 ---
 

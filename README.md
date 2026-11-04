@@ -458,7 +458,7 @@ F1 = **0.518**
 
 ### ⚖️ Class Imbalance
 
-The notebook reports that class-imbalance techniques produced only marginal improvements, suggesting that preprocessing and feature representation had a greater influence on model performance.
+**The notebook reports that class-imbalance techniques produced only marginal improvements, suggesting that preprocessing and feature representation had a greater influence on model performance.**
 
 ---
 

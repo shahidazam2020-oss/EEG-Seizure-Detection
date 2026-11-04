@@ -637,6 +637,7 @@ Skills demonstrated:
 • Machine Learning
 • Deep Learning
 • Natural Language Processing
+• Data Analysis
 
 ## 📜 Disclaimer
 

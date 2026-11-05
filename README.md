@@ -617,6 +617,7 @@ Open it using:
 The notebook contains:
 
 • Dataset loading
+• Exploratory analysis
 
 
 # 👨‍💻 About The Developer

@@ -629,6 +629,7 @@ The notebook contains:
 • Underfitting experiment
 • Overfitting experiment
 • L1 regularization
+• L2 regularization
 
 
 # 👨‍💻 About The Developer

@@ -628,6 +628,7 @@ The notebook contains:
 • Learning curve analysis
 • Underfitting experiment
 • Overfitting experiment
+• L1 regularization
 
 
 # 👨‍💻 About The Developer

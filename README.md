@@ -676,6 +676,7 @@ EEG Classification Study
 
 ---
 # ⭐ Repository
+**If you find this project useful for learning or experimentation, consider giving the repository a ⭐.**
 
 ## 📜 Disclaimer
 

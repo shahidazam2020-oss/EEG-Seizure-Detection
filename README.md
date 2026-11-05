@@ -623,6 +623,7 @@ The notebook contains:
 • Feature selection
 • Statistical feature extraction
 • PCA
+• Logistic Regression
 
 
 # 👨‍💻 About The Developer

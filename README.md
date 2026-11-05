@@ -630,6 +630,7 @@ The notebook contains:
 • Overfitting experiment
 • L1 regularization
 • L2 regularization
+• Elastic Net
 
 
 # 👨‍💻 About The Developer

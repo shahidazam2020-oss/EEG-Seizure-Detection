@@ -620,6 +620,7 @@ The notebook contains:
 • Exploratory analysis
 • Data preprocessing
 • EEG signal denoising
+• Feature selection
 
 
 # 👨‍💻 About The Developer

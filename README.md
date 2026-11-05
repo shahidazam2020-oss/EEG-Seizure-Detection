@@ -633,6 +633,7 @@ The notebook contains:
 • Elastic Net
 • Class weighting
 • SMOTE
+• Random undersampling
 
 
 # 👨‍💻 About The Developer

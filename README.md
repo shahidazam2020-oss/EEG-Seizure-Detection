@@ -632,6 +632,7 @@ The notebook contains:
 • L2 regularization
 • Elastic Net
 • Class weighting
+• SMOTE
 
 
 # 👨‍💻 About The Developer

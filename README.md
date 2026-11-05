@@ -624,6 +624,7 @@ The notebook contains:
 • Statistical feature extraction
 • PCA
 • Logistic Regression
+• Train test evaluation
 
 
 # 👨‍💻 About The Developer

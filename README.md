@@ -618,6 +618,7 @@ The notebook contains:
 
 • Dataset loading
 • Exploratory analysis
+• Data preprocessing
 
 
 # 👨‍💻 About The Developer

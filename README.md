@@ -634,7 +634,9 @@ The notebook contains:
 • Class weighting
 • SMOTE
 • Random undersampling
+• Comparative analysis
 
+---
 
 # 👨‍💻 About The Developer
 ## Shahid Azam

@@ -626,6 +626,7 @@ The notebook contains:
 • Logistic Regression
 • Train test evaluation
 • Learning curve analysis
+• Underfitting experiment
 
 
 # 👨‍💻 About The Developer

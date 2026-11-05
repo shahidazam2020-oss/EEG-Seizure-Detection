@@ -625,6 +625,7 @@ The notebook contains:
 • PCA
 • Logistic Regression
 • Train test evaluation
+• Learning curve analysis
 
 
 # 👨‍💻 About The Developer

@@ -622,6 +622,7 @@ The notebook contains:
 • EEG signal denoising
 • Feature selection
 • Statistical feature extraction
+• PCA
 
 
 # 👨‍💻 About The Developer

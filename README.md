@@ -678,6 +678,11 @@ EEG Classification Study
 # ⭐ Repository
 **If you find this project useful for learning or experimentation, consider giving the repository a ⭐.**
 
+<p align="center">
+**⭐ Star this repository • 🍴 Fork it • 🧠 Explore the code • 🚀 Build something new**
+</p>
+
+---
 ## 📜 Disclaimer
 
 This project is intended for **academic and educational purposes**. The results demonstrate machine-learning experiments on the datasets used in the notebook and should not be interpreted as a clinically validated seizure-detection system.

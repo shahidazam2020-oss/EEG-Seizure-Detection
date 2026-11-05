@@ -675,6 +675,8 @@ EEG Classification Study
 ```
 
 ---
+# ⭐ Repository
+
 ## 📜 Disclaimer
 
 This project is intended for **academic and educational purposes**. The results demonstrate machine-learning experiments on the datasets used in the notebook and should not be interpreted as a clinically validated seizure-detection system.

@@ -658,6 +658,23 @@ Skills demonstrated:
 ---
 ## ⭐ Project Highlights
 
+```text
+EEG Data Analysis
+        +
+Data Preprocessing
+        +
+Feature Engineering
+        +
+Machine Learning
+        +
+Regularization
+        +
+Class Imbalance Analysis
+        =
+EEG Classification Study
+```
+
+---
 ## 📜 Disclaimer
 
 This project is intended for **academic and educational purposes**. The results demonstrate machine-learning experiments on the datasets used in the notebook and should not be interpreted as a clinically validated seizure-detection system.

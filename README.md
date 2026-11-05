@@ -627,6 +627,7 @@ The notebook contains:
 • Train test evaluation
 • Learning curve analysis
 • Underfitting experiment
+• Overfitting experiment
 
 
 # 👨‍💻 About The Developer

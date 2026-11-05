@@ -619,6 +619,7 @@ The notebook contains:
 • Dataset loading
 • Exploratory analysis
 • Data preprocessing
+• EEG signal denoising
 
 
 # 👨‍💻 About The Developer

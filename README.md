@@ -614,6 +614,8 @@ Open it using:
 
 **`shahid-assignment(1).ipynb`**
 
+The notebook contains:
+
 
 # 👨‍💻 About The Developer
 ## Shahid Azam

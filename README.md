@@ -621,6 +621,7 @@ The notebook contains:
 • Data preprocessing
 • EEG signal denoising
 • Feature selection
+• Statistical feature extraction
 
 
 # 👨‍💻 About The Developer

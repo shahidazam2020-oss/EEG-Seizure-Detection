@@ -728,3 +728,5 @@ This project is intended for **academic and educational purposes**. The results 
 If this project helps you understand machine learning for healthcare prediction, consider:
 
 ⭐ **Starring the repository**
+
+🍴 **Forking the project**

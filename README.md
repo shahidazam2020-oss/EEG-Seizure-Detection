@@ -725,3 +725,4 @@ This project is intended for **academic and educational purposes**. The results 
 
 # ⭐ If You Find This Project Useful
 
+If this project helps you understand machine learning for healthcare prediction, consider:

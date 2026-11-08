@@ -729,6 +729,8 @@ If this project helps you understand machine learning for healthcare prediction,
 
 ⭐ **Starring the repository**
 
+🤝 **Contributing improvements**
+
 🍴 **Forking the project**
 
 🐛 **Opening an issue**

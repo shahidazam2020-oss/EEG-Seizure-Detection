@@ -1,11 +1,3 @@
-# 🧠 EEG-Based Seizure Prediction & Classification
-
-<p align="center">
-  <b>⚡ Machine Learning for EEG Signal Analysis</b><br>
-  <i>Feature Engineering • Signal Preprocessing • Regularization • Class Imbalance • Logistic Regression</i>
-</p>
-
----
 
 <div align="center">
   <a href="https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/stargazers">
@@ -18,6 +10,15 @@
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/EEG-Seizure-Detection?style=flat-square" alt="Last Commit">
   </a>
 </div>
+
+---
+# 🧠 EEG-Based Seizure Prediction & Classification
+
+<p align="center">
+  <b>⚡ Machine Learning for EEG Signal Analysis</b><br>
+  <i>Feature Engineering • Signal Preprocessing • Regularization • Class Imbalance • Logistic Regression</i>
+</p>
+
 
 ---
 ## 🧠 Project Overview

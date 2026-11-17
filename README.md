@@ -17,6 +17,18 @@ The primary classification algorithm used in the project is **Logistic Regressio
 
 The experiments are designed to determine which combination of preprocessing and modeling techniques provides the best classification performance for EEG-based seizure prediction.
 
+
+  <a href="https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/EEG-Seizure-Detection?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/EEG-Seizure-Detection?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/EEG-Seizure-Detection?style=flat-square" alt="Last Commit">
+  </a>
+</div>
+
 ---
 
 ## 🎯 Project Objectives

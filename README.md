@@ -1,5 +1,5 @@
 # 🧠 EEG-Based Seizure Prediction & Classification
-
+<div align="center">
 <p align="center">
   <b>⚡ Machine Learning for EEG Signal Analysis</b><br>
   <i>Feature Engineering • Signal Preprocessing • Regularization • Class Imbalance • Logistic Regression</i>
@@ -8,15 +8,6 @@
 ---
 
 ## 🧠 Project Overview
-
-This project focuses on **EEG signal analysis and seizure classification using Machine Learning**.
-
-The notebook investigates how different **data preprocessing, feature extraction, dimensionality reduction, regularization, and class-imbalance techniques** affect the performance of an EEG classification model.
-
-The primary classification algorithm used in the project is **Logistic Regression**.
-
-The experiments are designed to determine which combination of preprocessing and modeling techniques provides the best classification performance for EEG-based seizure prediction.
-
 
   <a href="https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/EEG-Seizure-Detection?style=social&cacheSeconds=60" alt="GitHub Stars">
@@ -28,6 +19,15 @@ The experiments are designed to determine which combination of preprocessing and
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/EEG-Seizure-Detection?style=flat-square" alt="Last Commit">
   </a>
 </div>
+
+
+This project focuses on **EEG signal analysis and seizure classification using Machine Learning**.
+
+The notebook investigates how different **data preprocessing, feature extraction, dimensionality reduction, regularization, and class-imbalance techniques** affect the performance of an EEG classification model.
+
+The primary classification algorithm used in the project is **Logistic Regression**.
+
+The experiments are designed to determine which combination of preprocessing and modeling techniques provides the best classification performance for EEG-based seizure prediction.
 
 ---
 

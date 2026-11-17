@@ -7,7 +7,6 @@
 
 ---
 
-## 🧠 Project Overview
 <div align="center">
   <a href="https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/EEG-Seizure-Detection?style=social&cacheSeconds=60" alt="GitHub Stars">
@@ -19,6 +18,10 @@
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/EEG-Seizure-Detection?style=flat-square" alt="Last Commit">
   </a>
 </div>
+
+---
+## 🧠 Project Overview
+
 
 
 This project focuses on **EEG signal analysis and seizure classification using Machine Learning**.

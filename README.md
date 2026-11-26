@@ -30,11 +30,6 @@ Exploring data preprocessing, feature selection, dimensionality reduction, regul
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 
-<br>
-
-[![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/EEG-Seizure-Detection?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/EEG-Seizure-Detection?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/shahidazam2020-oss/EEG-Seizure-Detection?style=for-the-badge)](https://github.com/shahidazam2020-oss/EEG-Seizure-Detection/issues)
 
 <br>
 

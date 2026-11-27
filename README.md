@@ -254,7 +254,7 @@ X_scaled = scaler.fit_transform(X)
 
 ### EEG Feature Smoothing
 
-A rolling-window mean operation is used to reduce short-term fluctuations in the feature representation.
+**A rolling-window mean operation is used to reduce short-term fluctuations in the feature representation.**
 
 ```python
 X_denoised = X_scaled_df.rolling(

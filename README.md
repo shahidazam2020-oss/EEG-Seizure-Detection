@@ -89,7 +89,7 @@ The primary classification algorithm is **Logistic Regression**, supported by ex
 - Synthetic Minority Over-sampling Technique (SMOTE).
 - Random undersampling.
 
-The project also investigates the effects of underfitting, overfitting, model complexity, and class imbalance using classification metrics such as F1-score and Precision-Recall AUC.
+**The project also investigates the effects of underfitting, overfitting, model complexity, and class imbalance using classification metrics such as F1-score and Precision-Recall AUC.**
 
 ### 💡 Project Vision
 

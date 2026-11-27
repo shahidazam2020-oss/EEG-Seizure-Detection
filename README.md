@@ -159,7 +159,7 @@ The primary classification algorithm is **Logistic Regression**, supported by ex
 
 ### 3. EEG Eye State Dataset
 
-This dataset is used in the notebook's main classification pipeline with the `eyeDetection` variable as its target.
+**This dataset is used in the notebook's main classification pipeline with the `eyeDetection` variable as its target.**
 
 The feature matrix is created by separating the target column:
 

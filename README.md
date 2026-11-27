@@ -428,7 +428,7 @@ The project investigates:
 
 ## 🛡️ Regularization Experiments
 
-Regularization controls model complexity and helps investigate the balance between underfitting and overfitting.
+**Regularization controls model complexity and helps investigate the balance between underfitting and overfitting.**
 
 ### 1. L1 Regularization
 

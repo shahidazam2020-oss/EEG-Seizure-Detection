@@ -312,7 +312,7 @@ Logistic Regression
 
 **Pipeline B extracts statistical characteristics from each observation.**
 
-The extracted features include:
+**The extracted features include:**
 
 - Mean
 - Standard deviation

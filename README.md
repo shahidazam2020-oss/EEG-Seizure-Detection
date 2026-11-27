@@ -174,7 +174,7 @@ y = df3["eyeDetection"]
 
 ## 🔬 Machine Learning Workflow
 
-The project follows a structured experimental workflow.
+**The project follows a structured experimental workflow.**
 
 ```text
                   🧠 EEG DATASETS

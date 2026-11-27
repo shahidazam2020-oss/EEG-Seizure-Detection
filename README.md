@@ -250,7 +250,7 @@ scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 ```
 
-Standardization is particularly important for algorithms and transformations sensitive to feature scales, including Logistic Regression and PCA.
+**Standardization is particularly important for algorithms and transformations sensitive to feature scales, including Logistic Regression and PCA.**
 
 ### EEG Feature Smoothing
 

@@ -440,7 +440,7 @@ z=w^Tx+b
 
 ### 2. L2 Regularization
 
-L2 regularization penalizes large coefficients and generally retains all model features.
+**L2 regularization penalizes large coefficients and generally retains all model features.**
 
 **Reported F1-score: 0.435**
 

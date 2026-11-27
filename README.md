@@ -310,7 +310,7 @@ Logistic Regression
 
 ### 🟣 Pipeline B — Statistical Feature Extraction
 
-Pipeline B extracts statistical characteristics from each observation.
+**Pipeline B extracts statistical characteristics from each observation.**
 
 The extracted features include:
 

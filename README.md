@@ -240,7 +240,7 @@ X = X.fillna(X.mean())
 
 ### Feature Standardization
 
-The project uses `StandardScaler` to standardize numerical features.
+**The project uses `StandardScaler` to standardize numerical features.**
 
 ```python
 from sklearn.preprocessing import StandardScaler

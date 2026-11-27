@@ -74,7 +74,7 @@
 
 **EEG-Based Seizure Analysis and Classification** is a Python-based machine learning project focused on investigating EEG-related datasets through preprocessing, feature engineering, statistical analysis, and supervised classification.
 
-The project explores how different data preparation and modeling strategies influence classification performance.
+**The project explores how different data preparation and modeling strategies influence classification performance.**
 
 The primary classification algorithm is **Logistic Regression**, supported by experiments involving:
 

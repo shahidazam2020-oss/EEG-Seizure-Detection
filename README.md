@@ -150,7 +150,7 @@ The primary classification algorithm is **Logistic Regression**, supported by ex
 
 **Used for seizure-related classification experiments.**
 
-The target variable is transformed into a binary classification format:
+**The target variable is transformed into a binary classification format:**
 
 | Original Class | Binary Label |
 |---|---|

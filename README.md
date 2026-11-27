@@ -474,7 +474,7 @@ z=w^Tx+b
 LogisticRegression(class_weight="balanced")
 ```
 
-This approach adjusts the importance assigned to different classes during model training.
+**This approach adjusts the importance assigned to different classes during model training.**
 
 ### 2. SMOTE
 

@@ -412,7 +412,7 @@ z=w^Tx+b
 
 ### Model Experiments
 
-The project investigates:
+**The project investigates:**
 
 - Baseline Logistic Regression.
 - Strong regularization.

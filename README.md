@@ -342,7 +342,7 @@ X_features = pd.DataFrame({
 
 ### PCA Configuration
 
-The notebook uses:
+**The notebook uses:**
 
 **Variance Retention: 95%**
 

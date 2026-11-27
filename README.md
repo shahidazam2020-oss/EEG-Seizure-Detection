@@ -338,7 +338,7 @@ X_features = pd.DataFrame({
 
 ## 📉 Dimensionality Reduction
 
-Principal Component Analysis (PCA) is investigated as a dimensionality reduction technique.
+**Principal Component Analysis (PCA) is investigated as a dimensionality reduction technique.**
 
 ### PCA Configuration
 

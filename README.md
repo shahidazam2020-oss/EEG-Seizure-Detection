@@ -269,7 +269,7 @@ X_denoised = X_scaled_df.rolling(
 
 ## 🔍 Feature Engineering
 
-The project investigates two different feature-processing approaches.
+**The project investigates two different feature-processing approaches.**
 
 ### 🔵 Pipeline A — Feature Selection
 

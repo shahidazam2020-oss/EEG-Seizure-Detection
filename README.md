@@ -458,7 +458,7 @@ z=w^Tx+b
 | 🥈 L2 | 0.435 |
 | 🥉 Elastic Net | 0.426 |
 
-According to the notebook's reported experiments, L1 regularization achieved the highest F1-score among these three methods.
+**According to the notebook's reported experiments, L1 regularization achieved the highest F1-score among these three methods.**
 
 ---
 

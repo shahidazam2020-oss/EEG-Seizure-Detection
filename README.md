@@ -401,7 +401,7 @@ z=w^Tx+b
 
 ### Model Training
 
-The notebook uses an 80/20 training and testing split with stratification.
+**The notebook uses an 80/20 training and testing split with stratification.**
 
 | Dataset Portion | Percentage |
 |---|---:|

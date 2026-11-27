@@ -93,7 +93,7 @@ The primary classification algorithm is **Logistic Regression**, supported by ex
 
 ### 💡 Project Vision
 
-To investigate how preprocessing, feature representation, and machine learning optimization techniques affect classification performance in EEG-related datasets.
+**To investigate how preprocessing, feature representation, and machine learning optimization techniques affect classification performance in EEG-related datasets.**
 
 ---
 

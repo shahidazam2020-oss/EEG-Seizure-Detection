@@ -273,7 +273,7 @@ The project investigates two different feature-processing approaches.
 
 ### 🔵 Pipeline A — Feature Selection
 
-Pipeline A preserves the original feature representation while removing low-variance features.
+**Pipeline A preserves the original feature representation while removing low-variance features.**
 
 **Technique:** `VarianceThreshold`
 

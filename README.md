@@ -478,7 +478,7 @@ LogisticRegression(class_weight="balanced")
 
 ### 2. SMOTE
 
-Synthetic Minority Over-sampling Technique generates synthetic minority-class observations.
+**Synthetic Minority Over-sampling Technique generates synthetic minority-class observations.**
 
 ```text
 Original Training Data

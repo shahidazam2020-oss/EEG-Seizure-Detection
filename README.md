@@ -161,7 +161,7 @@ The primary classification algorithm is **Logistic Regression**, supported by ex
 
 **This dataset is used in the notebook's main classification pipeline with the `eyeDetection` variable as its target.**
 
-The feature matrix is created by separating the target column:
+**The feature matrix is created by separating the target column:**
 
 ```python
 X = df3.drop(columns=["eyeDetection"])

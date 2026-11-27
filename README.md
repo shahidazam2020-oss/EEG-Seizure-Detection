@@ -466,7 +466,7 @@ z=w^Tx+b
 
 **Class imbalance can influence classification performance, particularly when one target class has substantially more observations than another.**
 
-The project investigates three approaches.
+**The project investigates three approaches.**
 
 ### 1. Class Weighting
 

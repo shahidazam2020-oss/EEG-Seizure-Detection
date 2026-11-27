@@ -20,7 +20,7 @@
 
 **An Experimental Machine Learning Framework for EEG Data Analysis and Classification**
 
-Exploring data preprocessing, feature selection, dimensionality reduction, regularization, and class-imbalance strategies for EEG-related classification tasks.
+**Exploring data preprocessing, feature selection, dimensionality reduction, regularization, and class-imbalance strategies for EEG-related classification tasks.**
 
 <br>
 

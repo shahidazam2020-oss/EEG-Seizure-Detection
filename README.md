@@ -144,7 +144,7 @@ The primary classification algorithm is **Logistic Regression**, supported by ex
 
 ### 1. EEG Feature Dataset
 
-Used to explore EEG features and their statistical properties.
+**Used to explore EEG features and their statistical properties.**
 
 ### 2. Epileptic Seizure Recognition Dataset
 

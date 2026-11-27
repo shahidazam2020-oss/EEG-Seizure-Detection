@@ -464,7 +464,7 @@ z=w^Tx+b
 
 ## ⚖️ Class Imbalance Handling
 
-Class imbalance can influence classification performance, particularly when one target class has substantially more observations than another.
+**Class imbalance can influence classification performance, particularly when one target class has substantially more observations than another.**
 
 The project investigates three approaches.
 

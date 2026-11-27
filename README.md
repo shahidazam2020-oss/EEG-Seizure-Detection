@@ -263,7 +263,7 @@ X_denoised = X_scaled_df.rolling(
 ).mean()
 ```
 
-This operation is applied to the feature representation; it should not be confused with a complete raw EEG signal-processing pipeline.
+**This operation is applied to the feature representation; it should not be confused with a complete raw EEG signal-processing pipeline.**
 
 ---
 

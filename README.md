@@ -408,7 +408,7 @@ z=w^Tx+b
 | Training | 80% |
 | Testing | 20% |
 
-Stratification helps preserve the target-class distribution across the training and testing sets.
+**Stratification helps preserve the target-class distribution across the training and testing sets.**
 
 ### Model Experiments
 

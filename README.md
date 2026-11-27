@@ -432,7 +432,7 @@ z=w^Tx+b
 
 ### 1. L1 Regularization
 
-L1 regularization encourages sparse model coefficients.
+**L1 regularization encourages sparse model coefficients.**
 
 It can reduce the influence of less informative features.
 

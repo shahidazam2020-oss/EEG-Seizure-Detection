@@ -332,7 +332,7 @@ X_features = pd.DataFrame({
 })
 ```
 
-The resulting features are standardized and processed using PCA.
+**The resulting features are standardized and processed using PCA.**
 
 ---
 

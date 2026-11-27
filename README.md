@@ -446,7 +446,7 @@ L2 regularization penalizes large coefficients and generally retains all model f
 
 ### 3. Elastic Net
 
-Elastic Net combines L1 and L2 regularization.
+**Elastic Net combines L1 and L2 regularization.**
 
 **Reported F1-score: 0.426**
 

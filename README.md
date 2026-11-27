@@ -140,7 +140,7 @@ The primary classification algorithm is **Logistic Regression**, supported by ex
 
 ## 📊 Datasets
 
-The repository includes three EEG-related datasets.
+**The repository includes three EEG-related datasets.**
 
 ### 1. EEG Feature Dataset
 

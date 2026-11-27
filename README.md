@@ -356,7 +356,7 @@ X_pca = pca.fit_transform(X_features_scaled)
 
 ### Purpose
 
-PCA transforms the original feature space into a smaller set of principal components while retaining a specified proportion of variance.
+**PCA transforms the original feature space into a smaller set of principal components while retaining a specified proportion of variance.**
 
 ### Pipeline B
 

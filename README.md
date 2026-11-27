@@ -228,7 +228,7 @@ y = df3["eyeDetection"]
 
 ## 🧹 Data Preprocessing
 
-Data preprocessing prepares the EEG feature representation for machine learning.
+**Data preprocessing prepares the EEG feature representation for machine learning.**
 
 ### Missing Value Handling
 

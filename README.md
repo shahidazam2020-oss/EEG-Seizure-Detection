@@ -99,7 +99,7 @@ The primary classification algorithm is **Logistic Regression**, supported by ex
 
 ## 🎯 Project Objectives
 
-The main objectives include:
+**The main objectives include:**
 
 - Analyze EEG-related datasets.
 - Understand the statistical characteristics of EEG features.

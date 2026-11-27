@@ -385,7 +385,7 @@ Logistic Regression
 
 ### Logistic Regression
 
-Logistic Regression is the primary supervised classification algorithm used in the project.
+**Logistic Regression is the primary supervised classification algorithm used in the project.**
 
 It estimates the probability of a binary outcome using a logistic function.
 

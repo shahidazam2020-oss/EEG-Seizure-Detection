@@ -831,7 +831,7 @@ This project provides practical exposure to:
 
 ## ⚠️ Medical and Research Disclaimer
 
-This repository is intended for educational, academic, and machine learning research purposes.
+**This repository is intended for educational, academic, and machine learning research purposes.**
 
 The experiments are not a clinically validated seizure-detection system and must not be used for medical diagnosis, treatment decisions, or patient management.
 

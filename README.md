@@ -892,7 +892,7 @@ Institute of Management Sciences, Peshawar, Pakistan
 - 🤝 Contribute new ideas.
 - 📢 Share the project with other researchers and developers.
 
-Your support encourages collaboration, continuous learning, and further development.
+**Your support encourages collaboration, continuous learning, and further development.**
 
 ---
 

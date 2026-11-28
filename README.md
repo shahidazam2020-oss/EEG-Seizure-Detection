@@ -722,7 +722,7 @@ df = pd.read_csv("Epileptic Seizure Recognition.csv")
 
 ## ⚠️ Limitations
 
-The project is an experimental machine learning study and has several limitations that should be considered.
+**The project is an experimental machine learning study and has several limitations that should be considered.**
 
 - The repository contains multiple EEG-related datasets with different prediction targets.
 - EEG Eye State classification should not be interpreted as epileptic seizure detection.

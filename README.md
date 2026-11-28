@@ -505,7 +505,7 @@ Majority Class ──┐
 Minority Class ──┘
 ```
 
-The notebook reports that undersampling achieved the highest F1-score among the evaluated imbalance-handling approaches, although it reduces the amount of majority-class information available for training.
+**The notebook reports that undersampling achieved the highest F1-score among the evaluated imbalance-handling approaches, although it reduces the amount of majority-class information available for training.**
 
 ---
 

@@ -521,7 +521,7 @@ The project focuses on two primary evaluation metrics.
 F1=2\times\frac{Precision\times Recall}{Precision+Recall}
 \]
 
-It is useful when both false positives and false negatives matter.
+**It is useful when both false positives and false negatives matter.**
 
 ### Precision-Recall AUC
 

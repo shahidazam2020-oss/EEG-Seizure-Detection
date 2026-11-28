@@ -497,7 +497,7 @@ Logistic Regression
 
 ### 3. Random Undersampling
 
-Random undersampling reduces the number of majority-class observations.
+**Random undersampling reduces the number of majority-class observations.**
 
 ```text
 Majority Class ──┐

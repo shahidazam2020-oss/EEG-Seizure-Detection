@@ -493,7 +493,7 @@ Balanced Training Data
 Logistic Regression
 ```
 
-The notebook reports a limited improvement in PR-AUC from SMOTE.
+**The notebook reports a limited improvement in PR-AUC from SMOTE.**
 
 ### 3. Random Undersampling
 

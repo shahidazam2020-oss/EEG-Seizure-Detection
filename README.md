@@ -687,7 +687,7 @@ Open the main notebook:
 shahid-assignment.ipynb
 ```
 
-Run the cells sequentially to explore:
+**Run the cells sequentially to explore:**
 
 1. Dataset loading.
 2. Data inspection.

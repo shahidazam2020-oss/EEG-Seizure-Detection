@@ -706,7 +706,7 @@ Run the cells sequentially to explore:
 
 ### Dataset Path Configuration
 
-The existing notebook contains Kaggle-specific dataset paths.
+**The existing notebook contains Kaggle-specific dataset paths.**
 
 If you are running the project locally, update the dataset paths to match your local directory.
 

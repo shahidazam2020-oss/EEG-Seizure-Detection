@@ -539,7 +539,7 @@ It compares:
 - Validation F1-score.
 - Increasing training-set size.
 
-This analysis helps investigate model generalization, underfitting, and overfitting.
+**This analysis helps investigate model generalization, underfitting, and overfitting.**
 
 ---
 

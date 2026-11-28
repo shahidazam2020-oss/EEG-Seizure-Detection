@@ -554,7 +554,7 @@ It compares:
 | 🔵 Pipeline A | Denoising + Variance Selection | 0.43 | 0.57 |
 | 🟣 Pipeline B | Statistical Features + PCA | 0.21 | 0.48 |
 
-Pipeline A performed better than Pipeline B in the reported experiment.
+**Pipeline A performed better than Pipeline B in the reported experiment.**
 
 The notebook suggests that reducing the feature representation to a small number of statistical features may have removed useful information.
 

@@ -531,7 +531,7 @@ F1=2\times\frac{Precision\times Recall}{Precision+Recall}
 
 ### Learning Curve Analysis
 
-The notebook also generates a five-fold cross-validation learning curve.
+**The notebook also generates a five-fold cross-validation learning curve.**
 
 It compares:
 

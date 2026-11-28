@@ -574,7 +574,7 @@ It compares:
 
 **Research interpretation:** The reported experiments suggest that feature representation and preprocessing choices can have a substantial influence on classification performance.
 
-*These values are experimental results reported in the existing notebook, not evidence of clinical diagnostic accuracy.*
+**These values are experimental results reported in the existing notebook, not evidence of clinical diagnostic accuracy.**
 
 ---
 

@@ -708,7 +708,7 @@ shahid-assignment.ipynb
 
 **The existing notebook contains Kaggle-specific dataset paths.**
 
-If you are running the project locally, update the dataset paths to match your local directory.
+**If you are running the project locally, update the dataset paths to match your local directory.**
 
 Example:
 

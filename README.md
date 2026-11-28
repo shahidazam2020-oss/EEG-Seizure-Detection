@@ -883,7 +883,7 @@ Institute of Management Sciences, Peshawar, Pakistan
 
 ## ⭐ Support the Project
 
-If you find this repository useful for learning, research, or machine learning experimentation:
+**If you find this repository useful for learning, research, or machine learning experimentation:**
 
 - ⭐ Star the repository.
 - 🍴 Fork the project.

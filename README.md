@@ -545,7 +545,7 @@ It compares:
 
 ## 🏆 Experimental Findings
 
-The existing notebook reports the following results.
+**The existing notebook reports the following results.**
 
 ### Preprocessing Pipeline Comparison
 

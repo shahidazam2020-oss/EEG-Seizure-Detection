@@ -807,7 +807,7 @@ df = pd.read_csv("Epileptic Seizure Recognition.csv")
 
 ## 📚 Learning Outcomes
 
-This project provides practical exposure to:
+**This project provides practical exposure to:**
 
 - EEG-related data analysis.
 - Python programming.

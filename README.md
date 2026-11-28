@@ -783,7 +783,7 @@ df = pd.read_csv("Epileptic Seizure Recognition.csv")
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and research improvements are welcome.
+**Contributions, suggestions, and research improvements are welcome.**
 
 ### How to Contribute
 

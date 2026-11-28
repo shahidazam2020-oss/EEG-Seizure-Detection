@@ -566,7 +566,7 @@ It compares:
 | L2 | 0.435 |
 | Elastic Net | 0.426 |
 
-L1 regularization achieved the strongest reported result among the three regularization approaches.
+**L1 regularization achieved the strongest reported result among the three regularization approaches.**
 
 ### Main Experimental Insight
 

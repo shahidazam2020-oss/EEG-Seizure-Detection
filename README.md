@@ -527,7 +527,7 @@ F1=2\times\frac{Precision\times Recall}{Precision+Recall}
 
 **PR-AUC evaluates the relationship between precision and recall across classification thresholds.**
 
-It is particularly useful for investigating classification performance under class imbalance.
+**It is particularly useful for investigating classification performance under class imbalance.**
 
 ### Learning Curve Analysis
 

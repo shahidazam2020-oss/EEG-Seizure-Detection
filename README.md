@@ -835,7 +835,7 @@ This project provides practical exposure to:
 
 **The experiments are not a clinically validated seizure-detection system and must not be used for medical diagnosis, treatment decisions, or patient management.**
 
-Clinical applications require appropriate datasets, rigorous validation, expert review, and regulatory approval.
+**Clinical applications require appropriate datasets, rigorous validation, expert review, and regulatory approval.**
 
 ---
 

@@ -525,7 +525,7 @@ F1=2\times\frac{Precision\times Recall}{Precision+Recall}
 
 ### Precision-Recall AUC
 
-PR-AUC evaluates the relationship between precision and recall across classification thresholds.
+**PR-AUC evaluates the relationship between precision and recall across classification thresholds.**
 
 It is particularly useful for investigating classification performance under class imbalance.
 

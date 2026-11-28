@@ -639,7 +639,7 @@ EEG-Seizure-Detection/
 └── Shahid Work.pdf
 ```
 
-*This structure reflects the existing repository at the time of documentation. Additional files may be present in the archive or added later.*
+**This structure reflects the existing repository at the time of documentation. Additional files may be present in the archive or added later.**
 
 ---
 

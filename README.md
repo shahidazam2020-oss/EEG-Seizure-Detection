@@ -851,7 +851,7 @@ Institute of Management Sciences, Peshawar, Pakistan
 
 </div>
 
-My interests include Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and research-oriented software development.
+**My interests include Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and research-oriented software development.**
 
 ### Areas of Interest
 

@@ -613,7 +613,7 @@ It compares:
 
 ## 📂 Repository Structure
 
-The repository currently contains the following important files:
+**The repository currently contains the following important files:**
 
 ```text
 EEG-Seizure-Detection/

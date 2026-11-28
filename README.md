@@ -515,7 +515,7 @@ The project focuses on two primary evaluation metrics.
 
 ### F1-Score
 
-F1-score is the harmonic mean of precision and recall.
+**F1-score is the harmonic mean of precision and recall.**
 
 \[
 F1=2\times\frac{Precision\times Recall}{Precision+Recall}

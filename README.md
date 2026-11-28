@@ -511,7 +511,7 @@ Minority Class ──┘
 
 ## 📈 Model Evaluation
 
-The project focuses on two primary evaluation metrics.
+**The project focuses on two primary evaluation metrics.**
 
 ### F1-Score
 

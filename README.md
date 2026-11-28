@@ -833,7 +833,7 @@ This project provides practical exposure to:
 
 **This repository is intended for educational, academic, and machine learning research purposes.**
 
-The experiments are not a clinically validated seizure-detection system and must not be used for medical diagnosis, treatment decisions, or patient management.
+**The experiments are not a clinically validated seizure-detection system and must not be used for medical diagnosis, treatment decisions, or patient management.**
 
 Clinical applications require appropriate datasets, rigorous validation, expert review, and regulatory approval.
 

@@ -556,7 +556,7 @@ It compares:
 
 **Pipeline A performed better than Pipeline B in the reported experiment.**
 
-The notebook suggests that reducing the feature representation to a small number of statistical features may have removed useful information.
+**The notebook suggests that reducing the feature representation to a small number of statistical features may have removed useful information.**
 
 ### Regularization Comparison
 
